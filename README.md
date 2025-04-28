@@ -32,7 +32,7 @@ Another clean and responsive **HTML & CSS template**, perfect for multipurpose w
 ## 📬 **Get in Touch**  
 🔗 **LinkedIn:** [linkedin.com/in/medhat-hegazy-8766aa34a](https://linkedin.com/in/medhat-hegazy-8766aa34a)  
 🔗 **GitHub:** [github.com/medhat12866](https://github.com/medhat12866)  
-📧 **Email:** [medhathegazy766@gmail.com](mailto:medhathegazy766@gmail.com)  
+📧 **Email:** [medhathegazy766@gmail.com](mailto:medhat.hegazy.dev@outlook.com)  
 📱 **WhatsApp:** [+20 01007669358](https://wa.me/201007669358)  
 
 **🚀 Always learning and improving—let’s connect!**  
