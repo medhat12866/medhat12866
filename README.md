@@ -21,7 +21,9 @@ Features:
 - Viewing and adding posts  
 - File upload functionality  
 - Styled with Bootstrap components  
-
+- **Infinite Scrolling:** Loading posts in batches (15–20 at a time) as the user scrolls down, instead of loading all at once.  
+- Allows for a smoother, more efficient user experience by reducing initial loading time and conserving resources.
+  
 ### 🔹 [Wealthome](https://medhat12866.github.io/Wealthome/)  
 A modern real estate website with an elegant design, showcasing various properties with a smooth user experience.  
 
