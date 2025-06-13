@@ -1,15 +1,26 @@
 # 🌟 Medhat Hegazy | Front-End Developer  
 
-Hi there! I'm **Medhat Hegazy**, a passionate **Front-End Developer** focused on building modern, responsive, and interactive web applications using **HTML, CSS, and JavaScript**. I enjoy crafting user-friendly interfaces with clean and efficient code.  
+Hi there! I'm **Medhat Hegazy**, a passionate **Front-End Developer** focused on building modern, responsive, and interactive web applications. I enjoy crafting user-friendly interfaces with clean and efficient code.  
 
 ## 🚀 **Skills**  
-✅ HTML5, CSS3, JavaScript (ES6+)  
+✅ HTML  
+✅ CSS  
+✅ JavaScript  
+✅ **Frameworks (CSS)**: Bootstrap, Tailwind  
+✅ **Frameworks (JavaScript)**: React (Basics), Next.js (Basics)  
+✅ API Communication with Axios  
 ✅ Responsive Web Design & UI/UX Best Practices  
-✅ CSS Frameworks (Bootstrap, Tailwind)  
-✅ JavaScript Functionality & DOM Manipulation  
 ✅ Git & GitHub for Version Control  
 
 ## 🏆 **Projects**  
+
+### 🔹 [Social Media App](https://medhat12866.github.io/social-media-App/)  
+A **Social Media Application** designed and implemented with **HTML, CSS, JavaScript, Bootstrap, and Axios**.  
+Features:
+- User authentication (login, register)  
+- Viewing and adding posts  
+- File upload functionality  
+- Styled with Bootstrap components  
 
 ### 🔹 [Wealthome](https://medhat12866.github.io/Wealthome/)  
 A modern real estate website with an elegant design, showcasing various properties with a smooth user experience.  
@@ -35,4 +46,4 @@ Another clean and responsive **HTML & CSS template**, perfect for multipurpose w
 📧 **Email:** [medhat.hegazy.dev@outlook.com](mailto:medhat.hegazy.dev@outlook.com)  
 📱 **WhatsApp:** [+20 01007669358](https://wa.me/201007669358)  
 
-**🚀 Always learning and improving—let’s connect!**  
+**🚀 Always learning and improving—let’s connect!**
